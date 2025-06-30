@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #8 - Milk \u0026 Mischief",
+  "description": "She stands in the park in a light summer dress, startled mid-play as milk splashes across her chest. The fabric goes nearly transparent, hugging her form. Her wide brown eyes are filled with surprise \u2014 or maybe playful intent. A single droplet slides down her neckline, and suddenly the moment feels... intimate.",
+  "series_number": 8,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Park"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Summer dress"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Playing with milk"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #2 - Post-Workout Glance",
+  "description": "Leaning casually against the school wall, she snaps a selfie, but her gaze drifts past the camera \u2014 to you. Her sportswear clings to her skin, still damp from motion, outlining toned thighs and a soft, rising chest. A flush on her cheeks, parted lips, and the heat of the moment lingers in her eyes.",
+  "series_number": 2,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "School"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sportswear"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Positive"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Selfie"
+    }
+  ]
+}

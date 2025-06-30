@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #13 - Guardian of the Shore",
+  "description": "On the bright beach, she strikes a poised battle stance, but there\u2019s something hypnotic beneath the heroism. Her green costume reveals more than it hides, clinging to her body as if molded to every contour. Her matching green eyes are sharp \u2014 alert \u2014 yet behind the strength, there\u2019s softness, waiting for someone to break through.",
+  "series_number": 13,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hero costume"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Alert"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Battle stance"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #14 - Purring Play",
+  "description": "Kneeling with an arched back, she looks up with pink eyes full of tease. Her sexy cat costume hugs every curve, tail flicking playfully behind her. Blonde hair falls messily over her cheeks as she rests on all fours \u2014 not trapped, not shy, just waiting. She doesn\u0027t need to say a word: her pose says it all.",
+  "series_number": 14,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sexy cat costume"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Kneeling with arched back"
+    }
+  ]
+}

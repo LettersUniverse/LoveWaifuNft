@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #9 - Caught in the Moment",
+  "description": "Her breath catches as she\u0027s held from behind, still dressed in cozy homewear. The closeness is electric \u2014 her blush deepens, her body tenses, but she doesn\u2019t pull away. Blonde strands tumble over her shoulders, and her brown eyes flicker with something between shock... and desire.",
+  "series_number": 9,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Indoor"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Home clothes"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Grabbed by a man"
+    }
+  ]
+}

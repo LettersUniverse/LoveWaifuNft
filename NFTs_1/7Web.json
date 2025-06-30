@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #7 - After School Secrets",
+  "description": "In a school uniform that\u0027s just a bit too snug, she leans forward playfully, one brow raised. Her skirt lifts ever so slightly, and her red eyes sparkle with mischief. The tilt of her hips, the innocent grin \u2014 she\u0027s at home, but her pose suggests anything but comfort. This isn\u2019t just study time anymore.",
+  "series_number": 7,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Home"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "School uniform"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Bending over"
+    }
+  ]
+}
