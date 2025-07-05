@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #69 - Bend Over, Blonde",
+  "description": "Studio lights highlight every inch of her pink bikini-clad body as she bends forward, putting her ass on full display. The stockings only make it worse\u2014or better. That \u2018friendly\u2019 smile? Liar. She knows you\u2019re hard.",
+  "series_number": 69,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Studio"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Pink bikini with stockings"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Friendly"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Posing while leaning forward"
+    }
+  ]
+}
