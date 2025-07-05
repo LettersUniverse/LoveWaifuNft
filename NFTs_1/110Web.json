@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #110 - Sitting Pretty",
+  "description": "Kneeling in the grass, her jumpsuit stretches taut over her backside as she leans forward, her blonde hair spilling over her shoulders. That shy glance over her shoulder? It\u2019s all an act\u2014she knows exactly how good she looks.",
+  "series_number": 110,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Meadow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Black tight jumpsuit"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Posing with butt while sitting"
+    }
+  ]
+}

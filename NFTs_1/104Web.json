@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #104 - Battlefield Seduction",
+  "description": "Lying back in her combat suit, she stretches like a cat, the material clinging to every muscle. Her violet eyes gleam with mischief as she runs a hand down her own torso, her lips parting in a silent invitation. Who needs enemies when she\u2019s this dangerous?",
+  "series_number": 104,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "House"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Battle suit"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "In love"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Lying down"
+    }
+  ]
+}

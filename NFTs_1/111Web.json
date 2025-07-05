@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #111 - Begging Position",
+  "description": "On her knees, her hands rest on her thighs, fingers twitching with restraint. The jumpsuit clings to her curves, the zipper pulled just low enough to tease. Her blue eyes are wide, her lips parted\u2014waiting for your next move.",
+  "series_number": 111,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Meadow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Black tight jumpsuit"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Sitting on knees"
+    }
+  ]
+}

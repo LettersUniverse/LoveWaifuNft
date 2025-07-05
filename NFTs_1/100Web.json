@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #100 - Double Dessert",
+  "description": "Another bite, another moan. Her lips wrap around the fork, her red dress slipping off one shoulder. The way her thighs press together under the table suggests she\u2019s not just savoring the cake\u2014she\u2019s imagining something far sweeter.",
+  "series_number": 100,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Kitchen"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Red dress"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Eating cake"
+    }
+  ]
+}
