@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #128 - Neon Squat",
+  "description": "Crouched in the neon glow, her short top rides up, revealing a sliver of toned stomach. Her purple eyes widen with exaggerated surprise, but the way she balances on her heels is pure seduction. One move, and she\u2019s all yours.",
+  "series_number": 128,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Neon lights"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Short top and shorts"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Squatting"
+    }
+  ]
+}
