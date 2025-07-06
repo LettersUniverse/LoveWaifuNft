@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #152 - Bedroom Secrets",
+  "description": "The dim light of the bedroom caresses her figure as she stands with quiet confidence. Her purple hair spills over her shoulders, framing a gaze that smolders with restrained desire. The thin fabric of her tank top clings to her curves, teasing the outline of her body with every breath. There\u2019s a hunger in her stance\u2014an unspoken promise that if you step closer, she won\u2019t turn away.",
+  "series_number": 152,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Bedroom"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Tank top"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Calm"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Standing"
+    }
+  ]
+}
