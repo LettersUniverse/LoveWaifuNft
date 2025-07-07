@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #174 - Zero-G Strip",
+  "description": "In the spaceship\u0027s glow, the latex suit peels away millimeter by tantalizing millimeter. The way she arches in midair makes every curve stand out in the low gravity. That strained expression isn\u0027t from effort - it\u0027s the ache of needing to be touched.",
+  "series_number": 174,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Spaceship"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Latex"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Tense"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Undressing"
+    }
+  ]
+}
