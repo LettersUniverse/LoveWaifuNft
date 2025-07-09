@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #213 - Silk Secrets",
+  "description": "The kimono hangs open, revealing the swell of her breasts and the shadow of her hips. Her fingers clutch the fabric, pretending modesty, but the parted silk and her quickened breath scream otherwise. That blush isn\u2019t from embarrassment... it\u2019s from imagining your hands replacing hers.",
+  "series_number": 213,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Room"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Standing"
+    }
+  ]
+}

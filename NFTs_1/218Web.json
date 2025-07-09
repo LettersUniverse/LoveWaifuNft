@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #218 - Scarlet Training",
+  "description": "The red light bathes her in hellish warmth, her sports uniform stuck to her skin with sweat. Her hands trail down her own body, \u2018fixing\u2019 the shorts that keep riding up. The way her hips jerk when she meets your gaze? That\u2019s no accident. She\u2019s not just stretching... she\u2019s performing.",
+  "series_number": 218,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red void"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "School sports uniform"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Standing"
+    }
+  ]
+}

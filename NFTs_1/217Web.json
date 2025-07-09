@@ -1,0 +1,51 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Love waifu #217 - Spotter\u2019s Reward",
+  "description": "Her breath comes heavy, the damp sports bra outlining every inch of her perky tits. She hesitates, then lifts the hem to wipe her forehead \u2014 exposing toned abs and the barest hint of pink beneath. That \u2018embarrassed\u2019 glance? A ruse. She wants you to volunteer as her spotter... and more.",
+  "series_number": 217,
+  "collection": {
+    "id": "2d443ae6-d89b-4bea-aedb-3983f67ca3cd",
+    "name": "Love Waifu",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The \u0022Love Waifu\u0022 collection is a series of unique digital artworks featuring anime-style female characters in diverse emotional states and situations. Each NFT heroine isn\u0027t just a character \u2014 she\u0027s a moment suspended between temptation, vulnerability, and playful power. Enter a world where a single look can say more than any line of dialogue."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/logo.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/LoveWaifuNft/refs/heads/main/banner.jpg"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "School gym"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "School sports uniform"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Embarrassed"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Standing"
+    }
+  ]
+}
